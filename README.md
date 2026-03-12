@@ -13,9 +13,11 @@ Follow these steps to run the project:
 2. Open the project folder
 3. Run the following commands:
 
-cd frontend
-npm install
-npm start
+-> cd frontend
+
+-> npm install
+
+-> npm start
 
 ## Running the App
 
