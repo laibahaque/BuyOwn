@@ -1,4 +1,4 @@
-# E-Commerce Laptop Shop (React Native)
+# BUYOWN - Laptop Shop Mobile App
 
 This is a **React Native based E-Commerce Mobile Application** for a **Laptop Shop**.
 The application allows users to browse laptops, view product details, and explore the store interface.
